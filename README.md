@@ -1,3 +1,3 @@
 ﻿# Servicio_Social
 
-Trabajo realizado durante mi servicio social. Varios archivos de tipo .csv y .sdf deben ser generados para el funcionamiento del código, en particular, los embeddings que se obtienen con mol2vec de nombre "out.csv" y "out_df.csv"
+Trabajo realizado durante mi servicio social.
